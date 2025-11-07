@@ -1,4 +1,10 @@
-## Hi there 👋
+I am Kevin Yuen
+
+I like
+
+* [jsoup](https://jsoup.org/)
+* [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+* [MCP](https://modelcontextprotocol.io/)
 
 <!--
 **kevinknyuen/kevinknyuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
